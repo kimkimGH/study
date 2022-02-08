@@ -5,6 +5,7 @@ class Point5 extends Object{
 	int y;
 	
 	Point5(int x,int y){
+		
 		this.x=x;
 		this.y=y;
 	}
