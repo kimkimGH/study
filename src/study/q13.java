@@ -2,7 +2,9 @@ package study;
 		//static메서드(클래스메서드)/인스턴스메서드
 class Math1{
 	
-	static int add(int x,int y){return x+y;}
+	static int add(int x,int y){
+		return x+y;
+	}
 
 	int x;
 	int y;
